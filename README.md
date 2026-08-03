@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/velkaviya089/leetcode-problem/tree/master/0268-missing-number) |
 | [0322-coin-change](https://github.com/velkaviya089/leetcode-problem/tree/master/0322-coin-change) |
 | [0628-maximum-product-of-three-numbers](https://github.com/velkaviya089/leetcode-problem/tree/master/0628-maximum-product-of-three-numbers) |
+| [0704-binary-search](https://github.com/velkaviya089/leetcode-problem/tree/master/0704-binary-search) |
 ## Two Pointers
 |  |
 | ------- |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/velkaviya089/leetcode-problem/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/velkaviya089/leetcode-problem/tree/master/0268-missing-number) |
+| [0704-binary-search](https://github.com/velkaviya089/leetcode-problem/tree/master/0704-binary-search) |
 ## Newton's Method
 |  |
 | ------- |
