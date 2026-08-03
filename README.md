@@ -9,4 +9,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/velkaviya089/leetcode-problem/tree/master/0027-remove-element) |
+## Math
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/velkaviya089/leetcode-problem/tree/master/0029-divide-two-integers) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/velkaviya089/leetcode-problem/tree/master/0029-divide-two-integers) |
 <!---LeetCode Topics End-->
