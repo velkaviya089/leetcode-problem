@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/velkaviya089/leetcode-problem/tree/master/0029-divide-two-integers) |
 | [0268-missing-number](https://github.com/velkaviya089/leetcode-problem/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/velkaviya089/leetcode-problem/tree/master/0389-find-the-difference) |
+| [0693-binary-number-with-alternating-bits](https://github.com/velkaviya089/leetcode-problem/tree/master/0693-binary-number-with-alternating-bits) |
 ## Binary Search
 |  |
 | ------- |
