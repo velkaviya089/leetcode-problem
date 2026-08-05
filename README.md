@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/velkaviya089/leetcode-problem/tree/master/0027-remove-element) |
+| [0125-valid-palindrome](https://github.com/velkaviya089/leetcode-problem/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/velkaviya089/leetcode-problem/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/velkaviya089/leetcode-problem/tree/master/0392-is-subsequence) |
 ## Math
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/velkaviya089/leetcode-problem/tree/master/0014-longest-common-prefix) |
+| [0125-valid-palindrome](https://github.com/velkaviya089/leetcode-problem/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/velkaviya089/leetcode-problem/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/velkaviya089/leetcode-problem/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/velkaviya089/leetcode-problem/tree/master/0392-is-subsequence) |
