@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/velkaviya089/leetcode-problem/tree/master/0027-remove-element) |
 | [0120-triangle](https://github.com/velkaviya089/leetcode-problem/tree/master/0120-triangle) |
 | [0136-single-number](https://github.com/velkaviya089/leetcode-problem/tree/master/0136-single-number) |
+| [0204-count-primes](https://github.com/velkaviya089/leetcode-problem/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/velkaviya089/leetcode-problem/tree/master/0268-missing-number) |
 | [0322-coin-change](https://github.com/velkaviya089/leetcode-problem/tree/master/0322-coin-change) |
 | [0628-maximum-product-of-three-numbers](https://github.com/velkaviya089/leetcode-problem/tree/master/0628-maximum-product-of-three-numbers) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/velkaviya089/leetcode-problem/tree/master/0029-divide-two-integers) |
 | [0069-sqrtx](https://github.com/velkaviya089/leetcode-problem/tree/master/0069-sqrtx) |
+| [0204-count-primes](https://github.com/velkaviya089/leetcode-problem/tree/master/0204-count-primes) |
 | [0263-ugly-number](https://github.com/velkaviya089/leetcode-problem/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/velkaviya089/leetcode-problem/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/velkaviya089/leetcode-problem/tree/master/0292-nim-game) |
@@ -113,4 +115,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/velkaviya089/leetcode-problem/tree/master/0014-longest-common-prefix) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/velkaviya089/leetcode-problem/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/velkaviya089/leetcode-problem/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/velkaviya089/leetcode-problem/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/velkaviya089/leetcode-problem/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/velkaviya089/leetcode-problem/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
