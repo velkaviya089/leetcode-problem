@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/velkaviya089/leetcode-problem/tree/master/0029-divide-two-integers) |
 | [0069-sqrtx](https://github.com/velkaviya089/leetcode-problem/tree/master/0069-sqrtx) |
+| [0172-factorial-trailing-zeroes](https://github.com/velkaviya089/leetcode-problem/tree/master/0172-factorial-trailing-zeroes) |
 | [0204-count-primes](https://github.com/velkaviya089/leetcode-problem/tree/master/0204-count-primes) |
 | [0263-ugly-number](https://github.com/velkaviya089/leetcode-problem/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/velkaviya089/leetcode-problem/tree/master/0268-missing-number) |
