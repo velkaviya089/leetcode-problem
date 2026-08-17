@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/velkaviya089/leetcode-problem/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/velkaviya089/leetcode-problem/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/velkaviya089/leetcode-problem/tree/master/0704-binary-search) |
+| [0724-find-pivot-index](https://github.com/velkaviya089/leetcode-problem/tree/master/0724-find-pivot-index) |
 ## Two Pointers
 |  |
 | ------- |
@@ -149,4 +150,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/velkaviya089/leetcode-problem/tree/master/0643-maximum-average-subarray-i) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/velkaviya089/leetcode-problem/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
