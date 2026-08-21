@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/velkaviya089/leetcode-problem/tree/master/0724-find-pivot-index) |
 | [0904-fruit-into-baskets](https://github.com/velkaviya089/leetcode-problem/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/velkaviya089/leetcode-problem/tree/master/0977-squares-of-a-sorted-array) |
+| [1122-relative-sort-array](https://github.com/velkaviya089/leetcode-problem/tree/master/1122-relative-sort-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/velkaviya089/leetcode-problem/tree/master/0560-subarray-sum-equals-k) |
 | [0771-jewels-and-stones](https://github.com/velkaviya089/leetcode-problem/tree/master/0771-jewels-and-stones) |
 | [0904-fruit-into-baskets](https://github.com/velkaviya089/leetcode-problem/tree/master/0904-fruit-into-baskets) |
+| [1122-relative-sort-array](https://github.com/velkaviya089/leetcode-problem/tree/master/1122-relative-sort-array) |
 ## Sorting
 |  |
 | ------- |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/velkaviya089/leetcode-problem/tree/master/0389-find-the-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/velkaviya089/leetcode-problem/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/velkaviya089/leetcode-problem/tree/master/0977-squares-of-a-sorted-array) |
+| [1122-relative-sort-array](https://github.com/velkaviya089/leetcode-problem/tree/master/1122-relative-sort-array) |
 ## Brainteaser
 |  |
 | ------- |
@@ -200,4 +203,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/velkaviya089/leetcode-problem/tree/master/0215-kth-largest-element-in-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [1122-relative-sort-array](https://github.com/velkaviya089/leetcode-problem/tree/master/1122-relative-sort-array) |
+## Quicksort
+|  |
+| ------- |
+| [1122-relative-sort-array](https://github.com/velkaviya089/leetcode-problem/tree/master/1122-relative-sort-array) |
+## Bubble Sort
+|  |
+| ------- |
+| [1122-relative-sort-array](https://github.com/velkaviya089/leetcode-problem/tree/master/1122-relative-sort-array) |
 <!---LeetCode Topics End-->
