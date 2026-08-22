@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/velkaviya089/leetcode-problem/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/velkaviya089/leetcode-problem/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/velkaviya089/leetcode-problem/tree/master/0053-maximum-subarray) |
+| [0075-sort-colors](https://github.com/velkaviya089/leetcode-problem/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/velkaviya089/leetcode-problem/tree/master/0088-merge-sorted-array) |
 | [0120-triangle](https://github.com/velkaviya089/leetcode-problem/tree/master/0120-triangle) |
 | [0136-single-number](https://github.com/velkaviya089/leetcode-problem/tree/master/0136-single-number) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/velkaviya089/leetcode-problem/tree/master/0027-remove-element) |
+| [0075-sort-colors](https://github.com/velkaviya089/leetcode-problem/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/velkaviya089/leetcode-problem/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/velkaviya089/leetcode-problem/tree/master/0125-valid-palindrome) |
 | [0287-find-the-duplicate-number](https://github.com/velkaviya089/leetcode-problem/tree/master/0287-find-the-duplicate-number) |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/velkaviya089/leetcode-problem/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/velkaviya089/leetcode-problem/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/velkaviya089/leetcode-problem/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/velkaviya089/leetcode-problem/tree/master/0268-missing-number) |
@@ -212,9 +215,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Quicksort
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/velkaviya089/leetcode-problem/tree/master/0075-sort-colors) |
 | [1122-relative-sort-array](https://github.com/velkaviya089/leetcode-problem/tree/master/1122-relative-sort-array) |
 ## Bubble Sort
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/velkaviya089/leetcode-problem/tree/master/0075-sort-colors) |
 | [1122-relative-sort-array](https://github.com/velkaviya089/leetcode-problem/tree/master/1122-relative-sort-array) |
 <!---LeetCode Topics End-->
