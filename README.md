@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/velkaviya089/leetcode-problem/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/velkaviya089/leetcode-problem/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/velkaviya089/leetcode-problem/tree/master/0392-is-subsequence) |
+| [0459-repeated-substring-pattern](https://github.com/velkaviya089/leetcode-problem/tree/master/0459-repeated-substring-pattern) |
 | [0771-jewels-and-stones](https://github.com/velkaviya089/leetcode-problem/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/velkaviya089/leetcode-problem/tree/master/0796-rotate-string) |
 | [1392-longest-happy-prefix](https://github.com/velkaviya089/leetcode-problem/tree/master/1392-longest-happy-prefix) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/velkaviya089/leetcode-problem/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0459-repeated-substring-pattern](https://github.com/velkaviya089/leetcode-problem/tree/master/0459-repeated-substring-pattern) |
 | [0796-rotate-string](https://github.com/velkaviya089/leetcode-problem/tree/master/0796-rotate-string) |
 | [1392-longest-happy-prefix](https://github.com/velkaviya089/leetcode-problem/tree/master/1392-longest-happy-prefix) |
 | [1408-string-matching-in-an-array](https://github.com/velkaviya089/leetcode-problem/tree/master/1408-string-matching-in-an-array) |
@@ -259,11 +261,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/velkaviya089/leetcode-problem/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0459-repeated-substring-pattern](https://github.com/velkaviya089/leetcode-problem/tree/master/0459-repeated-substring-pattern) |
 | [1392-longest-happy-prefix](https://github.com/velkaviya089/leetcode-problem/tree/master/1392-longest-happy-prefix) |
 ## Knuth–Morris–Pratt Algorithm
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/velkaviya089/leetcode-problem/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0459-repeated-substring-pattern](https://github.com/velkaviya089/leetcode-problem/tree/master/0459-repeated-substring-pattern) |
 | [1392-longest-happy-prefix](https://github.com/velkaviya089/leetcode-problem/tree/master/1392-longest-happy-prefix) |
 ## Boyer–Moore String-Search Algorithm
 |  |
