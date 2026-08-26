@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/velkaviya089/leetcode-problem/tree/master/0392-is-subsequence) |
 | [0771-jewels-and-stones](https://github.com/velkaviya089/leetcode-problem/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/velkaviya089/leetcode-problem/tree/master/0796-rotate-string) |
+| [1392-longest-happy-prefix](https://github.com/velkaviya089/leetcode-problem/tree/master/1392-longest-happy-prefix) |
 ## Trie
 |  |
 | ------- |
@@ -247,16 +248,27 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/velkaviya089/leetcode-problem/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0796-rotate-string](https://github.com/velkaviya089/leetcode-problem/tree/master/0796-rotate-string) |
+| [1392-longest-happy-prefix](https://github.com/velkaviya089/leetcode-problem/tree/master/1392-longest-happy-prefix) |
 ## Z Algorithm
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/velkaviya089/leetcode-problem/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [1392-longest-happy-prefix](https://github.com/velkaviya089/leetcode-problem/tree/master/1392-longest-happy-prefix) |
 ## Knuth–Morris–Pratt Algorithm
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/velkaviya089/leetcode-problem/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [1392-longest-happy-prefix](https://github.com/velkaviya089/leetcode-problem/tree/master/1392-longest-happy-prefix) |
 ## Boyer–Moore String-Search Algorithm
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/velkaviya089/leetcode-problem/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Rolling Hash
+|  |
+| ------- |
+| [1392-longest-happy-prefix](https://github.com/velkaviya089/leetcode-problem/tree/master/1392-longest-happy-prefix) |
+## Hash Function
+|  |
+| ------- |
+| [1392-longest-happy-prefix](https://github.com/velkaviya089/leetcode-problem/tree/master/1392-longest-happy-prefix) |
 <!---LeetCode Topics End-->
