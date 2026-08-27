@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/velkaviya089/leetcode-problem/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/velkaviya089/leetcode-problem/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/velkaviya089/leetcode-problem/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/velkaviya089/leetcode-problem/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/velkaviya089/leetcode-problem/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/velkaviya089/leetcode-problem/tree/master/0090-subsets-ii) |
 | [0120-triangle](https://github.com/velkaviya089/leetcode-problem/tree/master/0120-triangle) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/velkaviya089/leetcode-problem/tree/master/0029-divide-two-integers) |
+| [0078-subsets](https://github.com/velkaviya089/leetcode-problem/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/velkaviya089/leetcode-problem/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/velkaviya089/leetcode-problem/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/velkaviya089/leetcode-problem/tree/master/0231-power-of-two) |
@@ -298,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/velkaviya089/leetcode-problem/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/velkaviya089/leetcode-problem/tree/master/0090-subsets-ii) |
 ## Queue
 |  |
