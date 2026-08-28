@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/velkaviya089/leetcode-problem/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/velkaviya089/leetcode-problem/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/velkaviya089/leetcode-problem/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/velkaviya089/leetcode-problem/tree/master/0053-maximum-subarray) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/velkaviya089/leetcode-problem/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/velkaviya089/leetcode-problem/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/velkaviya089/leetcode-problem/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/velkaviya089/leetcode-problem/tree/master/0075-sort-colors) |
@@ -267,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/velkaviya089/leetcode-problem/tree/master/0011-container-with-most-water) |
 | [0324-wiggle-sort-ii](https://github.com/velkaviya089/leetcode-problem/tree/master/0324-wiggle-sort-ii) |
 ## String Matching
 |  |
