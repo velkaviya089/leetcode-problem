@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/velkaviya089/leetcode-problem/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/velkaviya089/leetcode-problem/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/velkaviya089/leetcode-problem/tree/master/0136-single-number) |
+| [0191-number-of-1-bits](https://github.com/velkaviya089/leetcode-problem/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/velkaviya089/leetcode-problem/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/velkaviya089/leetcode-problem/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/velkaviya089/leetcode-problem/tree/master/0287-find-the-duplicate-number) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/velkaviya089/leetcode-problem/tree/master/0053-maximum-subarray) |
+| [0191-number-of-1-bits](https://github.com/velkaviya089/leetcode-problem/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/velkaviya089/leetcode-problem/tree/master/0215-kth-largest-element-in-an-array) |
 | [0324-wiggle-sort-ii](https://github.com/velkaviya089/leetcode-problem/tree/master/0324-wiggle-sort-ii) |
 ## Pigeonhole Principle
