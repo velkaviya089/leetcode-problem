@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/velkaviya089/leetcode-problem/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0268-missing-number](https://github.com/velkaviya089/leetcode-problem/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/velkaviya089/leetcode-problem/tree/master/0389-find-the-difference) |
+| [0424-longest-repeating-character-replacement](https://github.com/velkaviya089/leetcode-problem/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/velkaviya089/leetcode-problem/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/velkaviya089/leetcode-problem/tree/master/0560-subarray-sum-equals-k) |
 | [0771-jewels-and-stones](https://github.com/velkaviya089/leetcode-problem/tree/master/0771-jewels-and-stones) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/velkaviya089/leetcode-problem/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/velkaviya089/leetcode-problem/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/velkaviya089/leetcode-problem/tree/master/0392-is-subsequence) |
+| [0424-longest-repeating-character-replacement](https://github.com/velkaviya089/leetcode-problem/tree/master/0424-longest-repeating-character-replacement) |
 | [0459-repeated-substring-pattern](https://github.com/velkaviya089/leetcode-problem/tree/master/0459-repeated-substring-pattern) |
 | [0771-jewels-and-stones](https://github.com/velkaviya089/leetcode-problem/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/velkaviya089/leetcode-problem/tree/master/0796-rotate-string) |
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/velkaviya089/leetcode-problem/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/velkaviya089/leetcode-problem/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/velkaviya089/leetcode-problem/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/velkaviya089/leetcode-problem/tree/master/0904-fruit-into-baskets) |
 ## Prefix Sum
