@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/velkaviya089/leetcode-problem/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/velkaviya089/leetcode-problem/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/velkaviya089/leetcode-problem/tree/master/0162-find-peak-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/velkaviya089/leetcode-problem/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0204-count-primes](https://github.com/velkaviya089/leetcode-problem/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/velkaviya089/leetcode-problem/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/velkaviya089/leetcode-problem/tree/master/0268-missing-number) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/velkaviya089/leetcode-problem/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/velkaviya089/leetcode-problem/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/velkaviya089/leetcode-problem/tree/master/0151-reverse-words-in-a-string) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/velkaviya089/leetcode-problem/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/velkaviya089/leetcode-problem/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/velkaviya089/leetcode-problem/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/velkaviya089/leetcode-problem/tree/master/0392-is-subsequence) |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/velkaviya089/leetcode-problem/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/velkaviya089/leetcode-problem/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/velkaviya089/leetcode-problem/tree/master/0162-find-peak-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/velkaviya089/leetcode-problem/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/velkaviya089/leetcode-problem/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/velkaviya089/leetcode-problem/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/velkaviya089/leetcode-problem/tree/master/0704-binary-search) |
