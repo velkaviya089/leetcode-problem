@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/velkaviya089/leetcode-problem/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/velkaviya089/leetcode-problem/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/velkaviya089/leetcode-problem/tree/master/0041-first-missing-positive) |
+| [0046-permutations](https://github.com/velkaviya089/leetcode-problem/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/velkaviya089/leetcode-problem/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/velkaviya089/leetcode-problem/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/velkaviya089/leetcode-problem/tree/master/0078-subsets) |
@@ -338,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/velkaviya089/leetcode-problem/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/velkaviya089/leetcode-problem/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/velkaviya089/leetcode-problem/tree/master/0040-combination-sum-ii) |
+| [0046-permutations](https://github.com/velkaviya089/leetcode-problem/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/velkaviya089/leetcode-problem/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/velkaviya089/leetcode-problem/tree/master/0090-subsets-ii) |
 ## Queue
