@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/velkaviya089/leetcode-problem/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/velkaviya089/leetcode-problem/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/velkaviya089/leetcode-problem/tree/master/0136-single-number) |
+| [0187-repeated-dna-sequences](https://github.com/velkaviya089/leetcode-problem/tree/master/0187-repeated-dna-sequences) |
 | [0191-number-of-1-bits](https://github.com/velkaviya089/leetcode-problem/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/velkaviya089/leetcode-problem/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/velkaviya089/leetcode-problem/tree/master/0268-missing-number) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/velkaviya089/leetcode-problem/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/velkaviya089/leetcode-problem/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/velkaviya089/leetcode-problem/tree/master/0169-majority-element) |
+| [0187-repeated-dna-sequences](https://github.com/velkaviya089/leetcode-problem/tree/master/0187-repeated-dna-sequences) |
 | [0268-missing-number](https://github.com/velkaviya089/leetcode-problem/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/velkaviya089/leetcode-problem/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/velkaviya089/leetcode-problem/tree/master/0424-longest-repeating-character-replacement) |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/velkaviya089/leetcode-problem/tree/master/0151-reverse-words-in-a-string) |
 | [0171-excel-sheet-column-number](https://github.com/velkaviya089/leetcode-problem/tree/master/0171-excel-sheet-column-number) |
 | [0179-largest-number](https://github.com/velkaviya089/leetcode-problem/tree/master/0179-largest-number) |
+| [0187-repeated-dna-sequences](https://github.com/velkaviya089/leetcode-problem/tree/master/0187-repeated-dna-sequences) |
 | [0344-reverse-string](https://github.com/velkaviya089/leetcode-problem/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/velkaviya089/leetcode-problem/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/velkaviya089/leetcode-problem/tree/master/0392-is-subsequence) |
@@ -280,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/velkaviya089/leetcode-problem/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0187-repeated-dna-sequences](https://github.com/velkaviya089/leetcode-problem/tree/master/0187-repeated-dna-sequences) |
 | [0209-minimum-size-subarray-sum](https://github.com/velkaviya089/leetcode-problem/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/velkaviya089/leetcode-problem/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/velkaviya089/leetcode-problem/tree/master/0643-maximum-average-subarray-i) |
@@ -356,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/velkaviya089/leetcode-problem/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0187-repeated-dna-sequences](https://github.com/velkaviya089/leetcode-problem/tree/master/0187-repeated-dna-sequences) |
 | [0459-repeated-substring-pattern](https://github.com/velkaviya089/leetcode-problem/tree/master/0459-repeated-substring-pattern) |
 | [1392-longest-happy-prefix](https://github.com/velkaviya089/leetcode-problem/tree/master/1392-longest-happy-prefix) |
 ## Knuth–Morris–Pratt Algorithm
@@ -368,13 +373,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/velkaviya089/leetcode-problem/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0187-repeated-dna-sequences](https://github.com/velkaviya089/leetcode-problem/tree/master/0187-repeated-dna-sequences) |
 ## Rolling Hash
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/velkaviya089/leetcode-problem/tree/master/0187-repeated-dna-sequences) |
 | [1392-longest-happy-prefix](https://github.com/velkaviya089/leetcode-problem/tree/master/1392-longest-happy-prefix) |
 ## Hash Function
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/velkaviya089/leetcode-problem/tree/master/0187-repeated-dna-sequences) |
 | [1392-longest-happy-prefix](https://github.com/velkaviya089/leetcode-problem/tree/master/1392-longest-happy-prefix) |
 ## Memoization
 |  |
