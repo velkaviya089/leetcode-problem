@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/velkaviya089/leetcode-problem/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/velkaviya089/leetcode-problem/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/velkaviya089/leetcode-problem/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/velkaviya089/leetcode-problem/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/velkaviya089/leetcode-problem/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/velkaviya089/leetcode-problem/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/velkaviya089/leetcode-problem/tree/master/0392-is-subsequence) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/velkaviya089/leetcode-problem/tree/master/0069-sqrtx) |
 | [0171-excel-sheet-column-number](https://github.com/velkaviya089/leetcode-problem/tree/master/0171-excel-sheet-column-number) |
 | [0172-factorial-trailing-zeroes](https://github.com/velkaviya089/leetcode-problem/tree/master/0172-factorial-trailing-zeroes) |
+| [0202-happy-number](https://github.com/velkaviya089/leetcode-problem/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/velkaviya089/leetcode-problem/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/velkaviya089/leetcode-problem/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/velkaviya089/leetcode-problem/tree/master/0263-ugly-number) |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/velkaviya089/leetcode-problem/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/velkaviya089/leetcode-problem/tree/master/0169-majority-element) |
 | [0187-repeated-dna-sequences](https://github.com/velkaviya089/leetcode-problem/tree/master/0187-repeated-dna-sequences) |
+| [0202-happy-number](https://github.com/velkaviya089/leetcode-problem/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/velkaviya089/leetcode-problem/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/velkaviya089/leetcode-problem/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/velkaviya089/leetcode-problem/tree/master/0424-longest-repeating-character-replacement) |
@@ -316,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/velkaviya089/leetcode-problem/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/velkaviya089/leetcode-problem/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/velkaviya089/leetcode-problem/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/velkaviya089/leetcode-problem/tree/master/0287-find-the-duplicate-number) |
 ## Heap (Priority Queue)
 |  |
