@@ -221,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/velkaviya089/leetcode-problem/tree/master/0002-add-two-numbers) |
 | [0141-linked-list-cycle](https://github.com/velkaviya089/leetcode-problem/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/velkaviya089/leetcode-problem/tree/master/0142-linked-list-cycle-ii) |
+| [0206-reverse-linked-list](https://github.com/velkaviya089/leetcode-problem/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/velkaviya089/leetcode-problem/tree/master/0328-odd-even-linked-list) |
 ## String
 |  |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/velkaviya089/leetcode-problem/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/velkaviya089/leetcode-problem/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/velkaviya089/leetcode-problem/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/velkaviya089/leetcode-problem/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/velkaviya089/leetcode-problem/tree/master/0509-fibonacci-number) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/velkaviya089/leetcode-problem/tree/master/1823-find-the-winner-of-the-circular-game) |
