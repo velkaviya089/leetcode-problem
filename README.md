@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/velkaviya089/leetcode-problem/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/velkaviya089/leetcode-problem/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/velkaviya089/leetcode-problem/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/velkaviya089/leetcode-problem/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/velkaviya089/leetcode-problem/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/velkaviya089/leetcode-problem/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/velkaviya089/leetcode-problem/tree/master/0287-find-the-duplicate-number) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/velkaviya089/leetcode-problem/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/velkaviya089/leetcode-problem/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/velkaviya089/leetcode-problem/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/velkaviya089/leetcode-problem/tree/master/0142-linked-list-cycle-ii) |
 | [0268-missing-number](https://github.com/velkaviya089/leetcode-problem/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/velkaviya089/leetcode-problem/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/velkaviya089/leetcode-problem/tree/master/0424-longest-repeating-character-replacement) |
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/velkaviya089/leetcode-problem/tree/master/0002-add-two-numbers) |
 | [0141-linked-list-cycle](https://github.com/velkaviya089/leetcode-problem/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/velkaviya089/leetcode-problem/tree/master/0142-linked-list-cycle-ii) |
 | [0328-odd-even-linked-list](https://github.com/velkaviya089/leetcode-problem/tree/master/0328-odd-even-linked-list) |
 ## String
 |  |
@@ -296,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/velkaviya089/leetcode-problem/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/velkaviya089/leetcode-problem/tree/master/0142-linked-list-cycle-ii) |
 | [0287-find-the-duplicate-number](https://github.com/velkaviya089/leetcode-problem/tree/master/0287-find-the-duplicate-number) |
 ## Heap (Priority Queue)
 |  |
