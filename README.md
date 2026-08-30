@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/velkaviya089/leetcode-problem/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/velkaviya089/leetcode-problem/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/velkaviya089/leetcode-problem/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/velkaviya089/leetcode-problem/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/velkaviya089/leetcode-problem/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/velkaviya089/leetcode-problem/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/velkaviya089/leetcode-problem/tree/master/0292-nim-game) |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/velkaviya089/leetcode-problem/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/velkaviya089/leetcode-problem/tree/master/0258-add-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/velkaviya089/leetcode-problem/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Primality Test
 |  |
@@ -428,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/velkaviya089/leetcode-problem/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/velkaviya089/leetcode-problem/tree/master/0258-add-digits) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/velkaviya089/leetcode-problem/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Euclidean Algorithm
 |  |
