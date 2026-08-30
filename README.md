@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/velkaviya089/leetcode-problem/tree/master/0162-find-peak-element) |
 | [0164-maximum-gap](https://github.com/velkaviya089/leetcode-problem/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/velkaviya089/leetcode-problem/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/velkaviya089/leetcode-problem/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/velkaviya089/leetcode-problem/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/velkaviya089/leetcode-problem/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/velkaviya089/leetcode-problem/tree/master/0215-kth-largest-element-in-an-array) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/velkaviya089/leetcode-problem/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/velkaviya089/leetcode-problem/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/velkaviya089/leetcode-problem/tree/master/0142-linked-list-cycle-ii) |
+| [0169-majority-element](https://github.com/velkaviya089/leetcode-problem/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/velkaviya089/leetcode-problem/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/velkaviya089/leetcode-problem/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/velkaviya089/leetcode-problem/tree/master/0424-longest-repeating-character-replacement) |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/velkaviya089/leetcode-problem/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/velkaviya089/leetcode-problem/tree/master/0088-merge-sorted-array) |
 | [0164-maximum-gap](https://github.com/velkaviya089/leetcode-problem/tree/master/0164-maximum-gap) |
+| [0169-majority-element](https://github.com/velkaviya089/leetcode-problem/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/velkaviya089/leetcode-problem/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/velkaviya089/leetcode-problem/tree/master/0268-missing-number) |
 | [0324-wiggle-sort-ii](https://github.com/velkaviya089/leetcode-problem/tree/master/0324-wiggle-sort-ii) |
@@ -289,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/velkaviya089/leetcode-problem/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/velkaviya089/leetcode-problem/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/velkaviya089/leetcode-problem/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/velkaviya089/leetcode-problem/tree/master/0215-kth-largest-element-in-an-array) |
 | [0324-wiggle-sort-ii](https://github.com/velkaviya089/leetcode-problem/tree/master/0324-wiggle-sort-ii) |
@@ -316,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/velkaviya089/leetcode-problem/tree/master/0169-majority-element) |
 | [1122-relative-sort-array](https://github.com/velkaviya089/leetcode-problem/tree/master/1122-relative-sort-array) |
 ## Quicksort
 |  |
@@ -438,4 +443,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/velkaviya089/leetcode-problem/tree/master/0164-maximum-gap) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/velkaviya089/leetcode-problem/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
