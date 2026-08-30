@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/velkaviya089/leetcode-problem/tree/master/0002-add-two-numbers) |
 | [0029-divide-two-integers](https://github.com/velkaviya089/leetcode-problem/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/velkaviya089/leetcode-problem/tree/master/0050-powx-n) |
+| [0067-add-binary](https://github.com/velkaviya089/leetcode-problem/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/velkaviya089/leetcode-problem/tree/master/0069-sqrtx) |
 | [0172-factorial-trailing-zeroes](https://github.com/velkaviya089/leetcode-problem/tree/master/0172-factorial-trailing-zeroes) |
 | [0204-count-primes](https://github.com/velkaviya089/leetcode-problem/tree/master/0204-count-primes) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/velkaviya089/leetcode-problem/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/velkaviya089/leetcode-problem/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/velkaviya089/leetcode-problem/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/velkaviya089/leetcode-problem/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/velkaviya089/leetcode-problem/tree/master/0136-single-number) |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/velkaviya089/leetcode-problem/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/velkaviya089/leetcode-problem/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/velkaviya089/leetcode-problem/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/velkaviya089/leetcode-problem/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/velkaviya089/leetcode-problem/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/velkaviya089/leetcode-problem/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/velkaviya089/leetcode-problem/tree/master/0344-reverse-string) |
@@ -362,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/velkaviya089/leetcode-problem/tree/master/0067-add-binary) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/velkaviya089/leetcode-problem/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Euclidean Algorithm
 |  |
