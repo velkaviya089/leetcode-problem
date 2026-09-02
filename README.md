@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/velkaviya089/leetcode-problem/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/velkaviya089/leetcode-problem/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/velkaviya089/leetcode-problem/tree/master/0090-subsets-ii) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/velkaviya089/leetcode-problem/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/velkaviya089/leetcode-problem/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/velkaviya089/leetcode-problem/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/velkaviya089/leetcode-problem/tree/master/0120-triangle) |
@@ -345,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/velkaviya089/leetcode-problem/tree/master/0053-maximum-subarray) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/velkaviya089/leetcode-problem/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/velkaviya089/leetcode-problem/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/velkaviya089/leetcode-problem/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/velkaviya089/leetcode-problem/tree/master/0215-kth-largest-element-in-an-array) |
@@ -528,18 +530,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/velkaviya089/leetcode-problem/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/velkaviya089/leetcode-problem/tree/master/0173-binary-search-tree-iterator) |
 | [0226-invert-binary-tree](https://github.com/velkaviya089/leetcode-problem/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/velkaviya089/leetcode-problem/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/velkaviya089/leetcode-problem/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/velkaviya089/leetcode-problem/tree/master/0173-binary-search-tree-iterator) |
 | [0226-invert-binary-tree](https://github.com/velkaviya089/leetcode-problem/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/velkaviya089/leetcode-problem/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/velkaviya089/leetcode-problem/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/velkaviya089/leetcode-problem/tree/master/0173-binary-search-tree-iterator) |
 ## Iterator
 |  |
