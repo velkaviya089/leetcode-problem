@@ -470,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/velkaviya089/leetcode-problem/tree/master/0173-binary-search-tree-iterator) |
 | [0303-range-sum-query-immutable](https://github.com/velkaviya089/leetcode-problem/tree/master/0303-range-sum-query-immutable) |
 ## Matrix
 |  |
@@ -490,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/velkaviya089/leetcode-problem/tree/master/0042-trapping-rain-water) |
+| [0173-binary-search-tree-iterator](https://github.com/velkaviya089/leetcode-problem/tree/master/0173-binary-search-tree-iterator) |
 | [0739-daily-temperatures](https://github.com/velkaviya089/leetcode-problem/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
@@ -525,9 +527,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/velkaviya089/leetcode-problem/tree/master/0173-binary-search-tree-iterator) |
 | [0226-invert-binary-tree](https://github.com/velkaviya089/leetcode-problem/tree/master/0226-invert-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/velkaviya089/leetcode-problem/tree/master/0173-binary-search-tree-iterator) |
 | [0226-invert-binary-tree](https://github.com/velkaviya089/leetcode-problem/tree/master/0226-invert-binary-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/velkaviya089/leetcode-problem/tree/master/0173-binary-search-tree-iterator) |
+## Iterator
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/velkaviya089/leetcode-problem/tree/master/0173-binary-search-tree-iterator) |
 <!---LeetCode Topics End-->
