@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0806-number-of-lines-to-write-string](https://github.com/velkaviya089/leetcode-problem/tree/master/0806-number-of-lines-to-write-string) |
 | [0875-koko-eating-bananas](https://github.com/velkaviya089/leetcode-problem/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/velkaviya089/leetcode-problem/tree/master/0904-fruit-into-baskets) |
+| [0969-pancake-sorting](https://github.com/velkaviya089/leetcode-problem/tree/master/0969-pancake-sorting) |
 | [0977-squares-of-a-sorted-array](https://github.com/velkaviya089/leetcode-problem/tree/master/0977-squares-of-a-sorted-array) |
 | [1122-relative-sort-array](https://github.com/velkaviya089/leetcode-problem/tree/master/1122-relative-sort-array) |
 | [1408-string-matching-in-an-array](https://github.com/velkaviya089/leetcode-problem/tree/master/1408-string-matching-in-an-array) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/velkaviya089/leetcode-problem/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/velkaviya089/leetcode-problem/tree/master/0392-is-subsequence) |
 | [0876-middle-of-the-linked-list](https://github.com/velkaviya089/leetcode-problem/tree/master/0876-middle-of-the-linked-list) |
+| [0969-pancake-sorting](https://github.com/velkaviya089/leetcode-problem/tree/master/0969-pancake-sorting) |
 | [0977-squares-of-a-sorted-array](https://github.com/velkaviya089/leetcode-problem/tree/master/0977-squares-of-a-sorted-array) |
 ## Math
 |  |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/velkaviya089/leetcode-problem/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/velkaviya089/leetcode-problem/tree/master/0389-find-the-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/velkaviya089/leetcode-problem/tree/master/0628-maximum-product-of-three-numbers) |
+| [0969-pancake-sorting](https://github.com/velkaviya089/leetcode-problem/tree/master/0969-pancake-sorting) |
 | [0977-squares-of-a-sorted-array](https://github.com/velkaviya089/leetcode-problem/tree/master/0977-squares-of-a-sorted-array) |
 | [1122-relative-sort-array](https://github.com/velkaviya089/leetcode-problem/tree/master/1122-relative-sort-array) |
 ## Brainteaser
@@ -410,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/velkaviya089/leetcode-problem/tree/master/0011-container-with-most-water) |
 | [0179-largest-number](https://github.com/velkaviya089/leetcode-problem/tree/master/0179-largest-number) |
 | [0324-wiggle-sort-ii](https://github.com/velkaviya089/leetcode-problem/tree/master/0324-wiggle-sort-ii) |
+| [0969-pancake-sorting](https://github.com/velkaviya089/leetcode-problem/tree/master/0969-pancake-sorting) |
 ## String Matching
 |  |
 | ------- |
