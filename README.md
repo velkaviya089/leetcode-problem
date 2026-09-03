@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/velkaviya089/leetcode-problem/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/velkaviya089/leetcode-problem/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/velkaviya089/leetcode-problem/tree/master/0367-valid-perfect-square) |
+| [0374-guess-number-higher-or-lower](https://github.com/velkaviya089/leetcode-problem/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/velkaviya089/leetcode-problem/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/velkaviya089/leetcode-problem/tree/master/0875-koko-eating-bananas) |
 ## Newton's Method
@@ -581,6 +582,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/velkaviya089/leetcode-problem/tree/master/0278-first-bad-version) |
+| [0374-guess-number-higher-or-lower](https://github.com/velkaviya089/leetcode-problem/tree/master/0374-guess-number-higher-or-lower) |
 ## Doubly-Linked List
 |  |
 | ------- |
