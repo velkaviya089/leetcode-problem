@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/velkaviya089/leetcode-problem/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/velkaviya089/leetcode-problem/tree/master/0292-nim-game) |
 | [0367-valid-perfect-square](https://github.com/velkaviya089/leetcode-problem/tree/master/0367-valid-perfect-square) |
+| [0412-fizz-buzz](https://github.com/velkaviya089/leetcode-problem/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/velkaviya089/leetcode-problem/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/velkaviya089/leetcode-problem/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/velkaviya089/leetcode-problem/tree/master/0628-maximum-product-of-three-numbers) |
@@ -311,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/velkaviya089/leetcode-problem/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/velkaviya089/leetcode-problem/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/velkaviya089/leetcode-problem/tree/master/0392-is-subsequence) |
+| [0412-fizz-buzz](https://github.com/velkaviya089/leetcode-problem/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/velkaviya089/leetcode-problem/tree/master/0424-longest-repeating-character-replacement) |
 | [0434-number-of-segments-in-a-string](https://github.com/velkaviya089/leetcode-problem/tree/master/0434-number-of-segments-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/velkaviya089/leetcode-problem/tree/master/0459-repeated-substring-pattern) |
@@ -516,6 +518,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/velkaviya089/leetcode-problem/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/velkaviya089/leetcode-problem/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/velkaviya089/leetcode-problem/tree/master/0412-fizz-buzz) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/velkaviya089/leetcode-problem/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Euclidean Algorithm
 |  |
