@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/velkaviya089/leetcode-problem/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/velkaviya089/leetcode-problem/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/velkaviya089/leetcode-problem/tree/master/0179-largest-number) |
+| [0200-number-of-islands](https://github.com/velkaviya089/leetcode-problem/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/velkaviya089/leetcode-problem/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/velkaviya089/leetcode-problem/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/velkaviya089/leetcode-problem/tree/master/0215-kth-largest-element-in-an-array) |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/velkaviya089/leetcode-problem/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/velkaviya089/leetcode-problem/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/velkaviya089/leetcode-problem/tree/master/0102-binary-tree-level-order-traversal) |
+| [0200-number-of-islands](https://github.com/velkaviya089/leetcode-problem/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/velkaviya089/leetcode-problem/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/velkaviya089/leetcode-problem/tree/master/0322-coin-change) |
 ## Knapsack Problem
@@ -541,6 +543,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/velkaviya089/leetcode-problem/tree/master/0037-sudoku-solver) |
 | [0079-word-search](https://github.com/velkaviya089/leetcode-problem/tree/master/0079-word-search) |
+| [0200-number-of-islands](https://github.com/velkaviya089/leetcode-problem/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/velkaviya089/leetcode-problem/tree/master/0240-search-a-2d-matrix-ii) |
 ## Algorithm X
 |  |
@@ -569,6 +572,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/velkaviya089/leetcode-problem/tree/master/0079-word-search) |
 | [0100-same-tree](https://github.com/velkaviya089/leetcode-problem/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/velkaviya089/leetcode-problem/tree/master/0101-symmetric-tree) |
+| [0200-number-of-islands](https://github.com/velkaviya089/leetcode-problem/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/velkaviya089/leetcode-problem/tree/master/0226-invert-binary-tree) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/velkaviya089/leetcode-problem/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0543-diameter-of-binary-tree](https://github.com/velkaviya089/leetcode-problem/tree/master/0543-diameter-of-binary-tree) |
@@ -631,4 +635,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/velkaviya089/leetcode-problem/tree/master/0148-sort-list) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/velkaviya089/leetcode-problem/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
