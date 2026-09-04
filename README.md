@@ -266,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/velkaviya089/leetcode-problem/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/velkaviya089/leetcode-problem/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/velkaviya089/leetcode-problem/tree/master/0102-binary-tree-level-order-traversal) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/velkaviya089/leetcode-problem/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0199-binary-tree-right-side-view](https://github.com/velkaviya089/leetcode-problem/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/velkaviya089/leetcode-problem/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/velkaviya089/leetcode-problem/tree/master/0226-invert-binary-tree) |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/velkaviya089/leetcode-problem/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/velkaviya089/leetcode-problem/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/velkaviya089/leetcode-problem/tree/master/0021-merge-two-sorted-lists) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/velkaviya089/leetcode-problem/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0138-copy-list-with-random-pointer](https://github.com/velkaviya089/leetcode-problem/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/velkaviya089/leetcode-problem/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/velkaviya089/leetcode-problem/tree/master/0142-linked-list-cycle-ii) |
@@ -577,6 +579,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/velkaviya089/leetcode-problem/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/velkaviya089/leetcode-problem/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/velkaviya089/leetcode-problem/tree/master/0101-symmetric-tree) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/velkaviya089/leetcode-problem/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0199-binary-tree-right-side-view](https://github.com/velkaviya089/leetcode-problem/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/velkaviya089/leetcode-problem/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/velkaviya089/leetcode-problem/tree/master/0226-invert-binary-tree) |
@@ -614,6 +617,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/velkaviya089/leetcode-problem/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/velkaviya089/leetcode-problem/tree/master/0102-binary-tree-level-order-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/velkaviya089/leetcode-problem/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/velkaviya089/leetcode-problem/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0173-binary-search-tree-iterator](https://github.com/velkaviya089/leetcode-problem/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/velkaviya089/leetcode-problem/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/velkaviya089/leetcode-problem/tree/master/0226-invert-binary-tree) |
@@ -627,6 +631,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/velkaviya089/leetcode-problem/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/velkaviya089/leetcode-problem/tree/master/0102-binary-tree-level-order-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/velkaviya089/leetcode-problem/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/velkaviya089/leetcode-problem/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0173-binary-search-tree-iterator](https://github.com/velkaviya089/leetcode-problem/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/velkaviya089/leetcode-problem/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/velkaviya089/leetcode-problem/tree/master/0226-invert-binary-tree) |
