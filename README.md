@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/velkaviya089/leetcode-problem/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/velkaviya089/leetcode-problem/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/velkaviya089/leetcode-problem/tree/master/0739-daily-temperatures) |
+| [0778-swim-in-rising-water](https://github.com/velkaviya089/leetcode-problem/tree/master/0778-swim-in-rising-water) |
 | [0806-number-of-lines-to-write-string](https://github.com/velkaviya089/leetcode-problem/tree/master/0806-number-of-lines-to-write-string) |
 | [0875-koko-eating-bananas](https://github.com/velkaviya089/leetcode-problem/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/velkaviya089/leetcode-problem/tree/master/0904-fruit-into-baskets) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/velkaviya089/leetcode-problem/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/velkaviya089/leetcode-problem/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/velkaviya089/leetcode-problem/tree/master/0704-binary-search) |
+| [0778-swim-in-rising-water](https://github.com/velkaviya089/leetcode-problem/tree/master/0778-swim-in-rising-water) |
 | [0875-koko-eating-bananas](https://github.com/velkaviya089/leetcode-problem/tree/master/0875-koko-eating-bananas) |
 ## Newton's Method
 |  |
@@ -255,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/velkaviya089/leetcode-problem/tree/master/0292-nim-game) |
+| [0778-swim-in-rising-water](https://github.com/velkaviya089/leetcode-problem/tree/master/0778-swim-in-rising-water) |
 ## Game Theory
 |  |
 | ------- |
@@ -280,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/velkaviya089/leetcode-problem/tree/master/0322-coin-change) |
 | [0684-redundant-connection](https://github.com/velkaviya089/leetcode-problem/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/velkaviya089/leetcode-problem/tree/master/0695-max-area-of-island) |
+| [0778-swim-in-rising-water](https://github.com/velkaviya089/leetcode-problem/tree/master/0778-swim-in-rising-water) |
 | [0802-find-eventual-safe-states](https://github.com/velkaviya089/leetcode-problem/tree/master/0802-find-eventual-safe-states) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/velkaviya089/leetcode-problem/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Knapsack Problem
@@ -432,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/velkaviya089/leetcode-problem/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/velkaviya089/leetcode-problem/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/velkaviya089/leetcode-problem/tree/master/0621-task-scheduler) |
+| [0778-swim-in-rising-water](https://github.com/velkaviya089/leetcode-problem/tree/master/0778-swim-in-rising-water) |
 | [1046-last-stone-weight](https://github.com/velkaviya089/leetcode-problem/tree/master/1046-last-stone-weight) |
 ## Quickselect
 |  |
@@ -563,6 +568,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/velkaviya089/leetcode-problem/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/velkaviya089/leetcode-problem/tree/master/0240-search-a-2d-matrix-ii) |
 | [0695-max-area-of-island](https://github.com/velkaviya089/leetcode-problem/tree/master/0695-max-area-of-island) |
+| [0778-swim-in-rising-water](https://github.com/velkaviya089/leetcode-problem/tree/master/0778-swim-in-rising-water) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/velkaviya089/leetcode-problem/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Algorithm X
 |  |
@@ -603,6 +609,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/velkaviya089/leetcode-problem/tree/master/0543-diameter-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/velkaviya089/leetcode-problem/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/velkaviya089/leetcode-problem/tree/master/0695-max-area-of-island) |
+| [0778-swim-in-rising-water](https://github.com/velkaviya089/leetcode-problem/tree/master/0778-swim-in-rising-water) |
 | [0802-find-eventual-safe-states](https://github.com/velkaviya089/leetcode-problem/tree/master/0802-find-eventual-safe-states) |
 ## Bucket Sort
 |  |
@@ -684,6 +691,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/velkaviya089/leetcode-problem/tree/master/0200-number-of-islands) |
 | [0684-redundant-connection](https://github.com/velkaviya089/leetcode-problem/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/velkaviya089/leetcode-problem/tree/master/0695-max-area-of-island) |
+| [0778-swim-in-rising-water](https://github.com/velkaviya089/leetcode-problem/tree/master/0778-swim-in-rising-water) |
 ## Graph Theory
 |  |
 | ------- |
@@ -701,4 +709,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0802-find-eventual-safe-states](https://github.com/velkaviya089/leetcode-problem/tree/master/0802-find-eventual-safe-states) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0778-swim-in-rising-water](https://github.com/velkaviya089/leetcode-problem/tree/master/0778-swim-in-rising-water) |
 <!---LeetCode Topics End-->
