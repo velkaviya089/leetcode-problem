@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/velkaviya089/leetcode-problem/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/velkaviya089/leetcode-problem/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/velkaviya089/leetcode-problem/tree/master/0621-task-scheduler) |
+| [0622-design-circular-queue](https://github.com/velkaviya089/leetcode-problem/tree/master/0622-design-circular-queue) |
 | [0628-maximum-product-of-three-numbers](https://github.com/velkaviya089/leetcode-problem/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/velkaviya089/leetcode-problem/tree/master/0643-maximum-average-subarray-i) |
 | [0695-max-area-of-island](https://github.com/velkaviya089/leetcode-problem/tree/master/0695-max-area-of-island) |
@@ -312,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/velkaviya089/leetcode-problem/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/velkaviya089/leetcode-problem/tree/master/0328-odd-even-linked-list) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/velkaviya089/leetcode-problem/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+| [0622-design-circular-queue](https://github.com/velkaviya089/leetcode-problem/tree/master/0622-design-circular-queue) |
 | [0876-middle-of-the-linked-list](https://github.com/velkaviya089/leetcode-problem/tree/master/0876-middle-of-the-linked-list) |
 ## String
 |  |
@@ -542,6 +544,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/velkaviya089/leetcode-problem/tree/master/0387-first-unique-character-in-a-string) |
+| [0622-design-circular-queue](https://github.com/velkaviya089/leetcode-problem/tree/master/0622-design-circular-queue) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/velkaviya089/leetcode-problem/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Simulation
 |  |
@@ -564,6 +567,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/velkaviya089/leetcode-problem/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/velkaviya089/leetcode-problem/tree/master/0173-binary-search-tree-iterator) |
 | [0303-range-sum-query-immutable](https://github.com/velkaviya089/leetcode-problem/tree/master/0303-range-sum-query-immutable) |
+| [0622-design-circular-queue](https://github.com/velkaviya089/leetcode-problem/tree/master/0622-design-circular-queue) |
 ## Matrix
 |  |
 | ------- |
