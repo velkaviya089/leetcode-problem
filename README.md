@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0969-pancake-sorting](https://github.com/velkaviya089/leetcode-problem/tree/master/0969-pancake-sorting) |
 | [0977-squares-of-a-sorted-array](https://github.com/velkaviya089/leetcode-problem/tree/master/0977-squares-of-a-sorted-array) |
 | [1046-last-stone-weight](https://github.com/velkaviya089/leetcode-problem/tree/master/1046-last-stone-weight) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/velkaviya089/leetcode-problem/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1122-relative-sort-array](https://github.com/velkaviya089/leetcode-problem/tree/master/1122-relative-sort-array) |
 | [1408-string-matching-in-an-array](https://github.com/velkaviya089/leetcode-problem/tree/master/1408-string-matching-in-an-array) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/velkaviya089/leetcode-problem/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/velkaviya089/leetcode-problem/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/velkaviya089/leetcode-problem/tree/master/0322-coin-change) |
 | [0695-max-area-of-island](https://github.com/velkaviya089/leetcode-problem/tree/master/0695-max-area-of-island) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/velkaviya089/leetcode-problem/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Knapsack Problem
 |  |
 | ------- |
@@ -553,6 +555,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/velkaviya089/leetcode-problem/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/velkaviya089/leetcode-problem/tree/master/0240-search-a-2d-matrix-ii) |
 | [0695-max-area-of-island](https://github.com/velkaviya089/leetcode-problem/tree/master/0695-max-area-of-island) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/velkaviya089/leetcode-problem/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Algorithm X
 |  |
 | ------- |
