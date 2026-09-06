@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/velkaviya089/leetcode-problem/tree/master/0509-fibonacci-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/velkaviya089/leetcode-problem/tree/master/0516-longest-palindromic-subsequence) |
 | [0746-min-cost-climbing-stairs](https://github.com/velkaviya089/leetcode-problem/tree/master/0746-min-cost-climbing-stairs) |
+| [1143-longest-common-subsequence](https://github.com/velkaviya089/leetcode-problem/tree/master/1143-longest-common-subsequence) |
 | [1668-maximum-repeating-substring](https://github.com/velkaviya089/leetcode-problem/tree/master/1668-maximum-repeating-substring) |
 ## Hash Table
 |  |
@@ -357,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/velkaviya089/leetcode-problem/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/velkaviya089/leetcode-problem/tree/master/0796-rotate-string) |
 | [0806-number-of-lines-to-write-string](https://github.com/velkaviya089/leetcode-problem/tree/master/0806-number-of-lines-to-write-string) |
+| [1143-longest-common-subsequence](https://github.com/velkaviya089/leetcode-problem/tree/master/1143-longest-common-subsequence) |
 | [1392-longest-happy-prefix](https://github.com/velkaviya089/leetcode-problem/tree/master/1392-longest-happy-prefix) |
 | [1408-string-matching-in-an-array](https://github.com/velkaviya089/leetcode-problem/tree/master/1408-string-matching-in-an-array) |
 | [1668-maximum-repeating-substring](https://github.com/velkaviya089/leetcode-problem/tree/master/1668-maximum-repeating-substring) |
@@ -731,4 +733,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/velkaviya089/leetcode-problem/tree/master/0062-unique-paths) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/velkaviya089/leetcode-problem/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
