@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/velkaviya089/leetcode-problem/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/velkaviya089/leetcode-problem/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/velkaviya089/leetcode-problem/tree/master/0509-fibonacci-number) |
+| [0516-longest-palindromic-subsequence](https://github.com/velkaviya089/leetcode-problem/tree/master/0516-longest-palindromic-subsequence) |
 | [0746-min-cost-climbing-stairs](https://github.com/velkaviya089/leetcode-problem/tree/master/0746-min-cost-climbing-stairs) |
 | [1668-maximum-repeating-substring](https://github.com/velkaviya089/leetcode-problem/tree/master/1668-maximum-repeating-substring) |
 ## Hash Table
@@ -348,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/velkaviya089/leetcode-problem/tree/master/0424-longest-repeating-character-replacement) |
 | [0434-number-of-segments-in-a-string](https://github.com/velkaviya089/leetcode-problem/tree/master/0434-number-of-segments-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/velkaviya089/leetcode-problem/tree/master/0459-repeated-substring-pattern) |
+| [0516-longest-palindromic-subsequence](https://github.com/velkaviya089/leetcode-problem/tree/master/0516-longest-palindromic-subsequence) |
 | [0686-repeated-string-match](https://github.com/velkaviya089/leetcode-problem/tree/master/0686-repeated-string-match) |
 | [0709-to-lower-case](https://github.com/velkaviya089/leetcode-problem/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/velkaviya089/leetcode-problem/tree/master/0771-jewels-and-stones) |
