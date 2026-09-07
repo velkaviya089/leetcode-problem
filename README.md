@@ -215,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/velkaviya089/leetcode-problem/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/velkaviya089/leetcode-problem/tree/master/0518-coin-change-ii) |
 | [0746-min-cost-climbing-stairs](https://github.com/velkaviya089/leetcode-problem/tree/master/0746-min-cost-climbing-stairs) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/velkaviya089/leetcode-problem/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/velkaviya089/leetcode-problem/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1143-longest-common-subsequence](https://github.com/velkaviya089/leetcode-problem/tree/master/1143-longest-common-subsequence) |
 | [1668-maximum-repeating-substring](https://github.com/velkaviya089/leetcode-problem/tree/master/1668-maximum-repeating-substring) |
@@ -314,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/velkaviya089/leetcode-problem/tree/master/0695-max-area-of-island) |
 | [0743-network-delay-time](https://github.com/velkaviya089/leetcode-problem/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/velkaviya089/leetcode-problem/tree/master/0778-swim-in-rising-water) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/velkaviya089/leetcode-problem/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/velkaviya089/leetcode-problem/tree/master/0802-find-eventual-safe-states) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/velkaviya089/leetcode-problem/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Knapsack Problem
@@ -478,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/velkaviya089/leetcode-problem/tree/master/0621-task-scheduler) |
 | [0743-network-delay-time](https://github.com/velkaviya089/leetcode-problem/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/velkaviya089/leetcode-problem/tree/master/0778-swim-in-rising-water) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/velkaviya089/leetcode-problem/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1046-last-stone-weight](https://github.com/velkaviya089/leetcode-problem/tree/master/1046-last-stone-weight) |
 ## Quickselect
 |  |
@@ -658,6 +661,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/velkaviya089/leetcode-problem/tree/master/0695-max-area-of-island) |
 | [0743-network-delay-time](https://github.com/velkaviya089/leetcode-problem/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/velkaviya089/leetcode-problem/tree/master/0778-swim-in-rising-water) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/velkaviya089/leetcode-problem/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/velkaviya089/leetcode-problem/tree/master/0802-find-eventual-safe-states) |
 ## Bucket Sort
 |  |
@@ -746,6 +750,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/velkaviya089/leetcode-problem/tree/master/0207-course-schedule) |
 | [0684-redundant-connection](https://github.com/velkaviya089/leetcode-problem/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/velkaviya089/leetcode-problem/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/velkaviya089/leetcode-problem/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/velkaviya089/leetcode-problem/tree/master/0802-find-eventual-safe-states) |
 ## Topological Sort
 |  |
@@ -786,6 +791,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/velkaviya089/leetcode-problem/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/velkaviya089/leetcode-problem/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
