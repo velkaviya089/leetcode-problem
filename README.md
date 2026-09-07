@@ -309,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/velkaviya089/leetcode-problem/tree/master/0322-coin-change) |
 | [0684-redundant-connection](https://github.com/velkaviya089/leetcode-problem/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/velkaviya089/leetcode-problem/tree/master/0695-max-area-of-island) |
+| [0743-network-delay-time](https://github.com/velkaviya089/leetcode-problem/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/velkaviya089/leetcode-problem/tree/master/0778-swim-in-rising-water) |
 | [0802-find-eventual-safe-states](https://github.com/velkaviya089/leetcode-problem/tree/master/0802-find-eventual-safe-states) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/velkaviya089/leetcode-problem/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -471,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/velkaviya089/leetcode-problem/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/velkaviya089/leetcode-problem/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/velkaviya089/leetcode-problem/tree/master/0621-task-scheduler) |
+| [0743-network-delay-time](https://github.com/velkaviya089/leetcode-problem/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/velkaviya089/leetcode-problem/tree/master/0778-swim-in-rising-water) |
 | [1046-last-stone-weight](https://github.com/velkaviya089/leetcode-problem/tree/master/1046-last-stone-weight) |
 ## Quickselect
@@ -649,6 +651,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/velkaviya089/leetcode-problem/tree/master/0543-diameter-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/velkaviya089/leetcode-problem/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/velkaviya089/leetcode-problem/tree/master/0695-max-area-of-island) |
+| [0743-network-delay-time](https://github.com/velkaviya089/leetcode-problem/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/velkaviya089/leetcode-problem/tree/master/0778-swim-in-rising-water) |
 | [0802-find-eventual-safe-states](https://github.com/velkaviya089/leetcode-problem/tree/master/0802-find-eventual-safe-states) |
 ## Bucket Sort
@@ -736,6 +739,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0684-redundant-connection](https://github.com/velkaviya089/leetcode-problem/tree/master/0684-redundant-connection) |
+| [0743-network-delay-time](https://github.com/velkaviya089/leetcode-problem/tree/master/0743-network-delay-time) |
 | [0802-find-eventual-safe-states](https://github.com/velkaviya089/leetcode-problem/tree/master/0802-find-eventual-safe-states) |
 ## Topological Sort
 |  |
@@ -752,6 +756,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dijkstra's Algorithm
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/velkaviya089/leetcode-problem/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/velkaviya089/leetcode-problem/tree/master/0778-swim-in-rising-water) |
 ## Combinatorics
 |  |
@@ -770,4 +775,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/velkaviya089/leetcode-problem/tree/master/0300-longest-increasing-subsequence) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/velkaviya089/leetcode-problem/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
