@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/velkaviya089/leetcode-problem/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/velkaviya089/leetcode-problem/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/velkaviya089/leetcode-problem/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0494-target-sum](https://github.com/velkaviya089/leetcode-problem/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/velkaviya089/leetcode-problem/tree/master/0518-coin-change-ii) |
 | [0523-continuous-subarray-sum](https://github.com/velkaviya089/leetcode-problem/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/velkaviya089/leetcode-problem/tree/master/0560-subarray-sum-equals-k) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0337-house-robber-iii](https://github.com/velkaviya089/leetcode-problem/tree/master/0337-house-robber-iii) |
 | [0338-counting-bits](https://github.com/velkaviya089/leetcode-problem/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/velkaviya089/leetcode-problem/tree/master/0392-is-subsequence) |
+| [0494-target-sum](https://github.com/velkaviya089/leetcode-problem/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/velkaviya089/leetcode-problem/tree/master/0509-fibonacci-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/velkaviya089/leetcode-problem/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/velkaviya089/leetcode-problem/tree/master/0518-coin-change-ii) |
@@ -307,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/velkaviya089/leetcode-problem/tree/master/0322-coin-change) |
+| [0494-target-sum](https://github.com/velkaviya089/leetcode-problem/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/velkaviya089/leetcode-problem/tree/master/0518-coin-change-ii) |
 ## Complete Knapsack
 |  |
@@ -559,6 +562,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0093-restore-ip-addresses](https://github.com/velkaviya089/leetcode-problem/tree/master/0093-restore-ip-addresses) |
 | [0131-palindrome-partitioning](https://github.com/velkaviya089/leetcode-problem/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/velkaviya089/leetcode-problem/tree/master/0140-word-break-ii) |
+| [0494-target-sum](https://github.com/velkaviya089/leetcode-problem/tree/master/0494-target-sum) |
 ## Queue
 |  |
 | ------- |
@@ -748,4 +752,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/velkaviya089/leetcode-problem/tree/master/1143-longest-common-subsequence) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/velkaviya089/leetcode-problem/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
