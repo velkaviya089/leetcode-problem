@@ -701,6 +701,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/velkaviya089/leetcode-problem/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/velkaviya089/leetcode-problem/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0337-house-robber-iii](https://github.com/velkaviya089/leetcode-problem/tree/master/0337-house-robber-iii) |
+| [0450-delete-node-in-a-bst](https://github.com/velkaviya089/leetcode-problem/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/velkaviya089/leetcode-problem/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
@@ -717,6 +718,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/velkaviya089/leetcode-problem/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/velkaviya089/leetcode-problem/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0337-house-robber-iii](https://github.com/velkaviya089/leetcode-problem/tree/master/0337-house-robber-iii) |
+| [0450-delete-node-in-a-bst](https://github.com/velkaviya089/leetcode-problem/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/velkaviya089/leetcode-problem/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Search Tree
 |  |
@@ -725,6 +727,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/velkaviya089/leetcode-problem/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/velkaviya089/leetcode-problem/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/velkaviya089/leetcode-problem/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0450-delete-node-in-a-bst](https://github.com/velkaviya089/leetcode-problem/tree/master/0450-delete-node-in-a-bst) |
 ## Iterator
 |  |
 | ------- |
