@@ -307,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/velkaviya089/leetcode-problem/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/velkaviya089/leetcode-problem/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/velkaviya089/leetcode-problem/tree/master/0102-binary-tree-level-order-traversal) |
+| [0112-path-sum](https://github.com/velkaviya089/leetcode-problem/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/velkaviya089/leetcode-problem/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0199-binary-tree-right-side-view](https://github.com/velkaviya089/leetcode-problem/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/velkaviya089/leetcode-problem/tree/master/0200-number-of-islands) |
@@ -652,6 +653,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/velkaviya089/leetcode-problem/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/velkaviya089/leetcode-problem/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/velkaviya089/leetcode-problem/tree/master/0110-balanced-binary-tree) |
+| [0112-path-sum](https://github.com/velkaviya089/leetcode-problem/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/velkaviya089/leetcode-problem/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0199-binary-tree-right-side-view](https://github.com/velkaviya089/leetcode-problem/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/velkaviya089/leetcode-problem/tree/master/0200-number-of-islands) |
@@ -699,6 +701,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/velkaviya089/leetcode-problem/tree/master/0102-binary-tree-level-order-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/velkaviya089/leetcode-problem/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/velkaviya089/leetcode-problem/tree/master/0110-balanced-binary-tree) |
+| [0112-path-sum](https://github.com/velkaviya089/leetcode-problem/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/velkaviya089/leetcode-problem/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0173-binary-search-tree-iterator](https://github.com/velkaviya089/leetcode-problem/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/velkaviya089/leetcode-problem/tree/master/0199-binary-tree-right-side-view) |
@@ -716,6 +719,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/velkaviya089/leetcode-problem/tree/master/0102-binary-tree-level-order-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/velkaviya089/leetcode-problem/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/velkaviya089/leetcode-problem/tree/master/0110-balanced-binary-tree) |
+| [0112-path-sum](https://github.com/velkaviya089/leetcode-problem/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/velkaviya089/leetcode-problem/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0173-binary-search-tree-iterator](https://github.com/velkaviya089/leetcode-problem/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/velkaviya089/leetcode-problem/tree/master/0199-binary-tree-right-side-view) |
