@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/velkaviya089/leetcode-problem/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/velkaviya089/leetcode-problem/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/velkaviya089/leetcode-problem/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/velkaviya089/leetcode-problem/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/velkaviya089/leetcode-problem/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/velkaviya089/leetcode-problem/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/velkaviya089/leetcode-problem/tree/master/0509-fibonacci-number) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/velkaviya089/leetcode-problem/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/velkaviya089/leetcode-problem/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/velkaviya089/leetcode-problem/tree/master/0338-counting-bits) |
+| [0342-power-of-four](https://github.com/velkaviya089/leetcode-problem/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/velkaviya089/leetcode-problem/tree/master/0389-find-the-difference) |
 | [0693-binary-number-with-alternating-bits](https://github.com/velkaviya089/leetcode-problem/tree/master/0693-binary-number-with-alternating-bits) |
 | [0779-k-th-symbol-in-grammar](https://github.com/velkaviya089/leetcode-problem/tree/master/0779-k-th-symbol-in-grammar) |
@@ -435,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/velkaviya089/leetcode-problem/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/velkaviya089/leetcode-problem/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/velkaviya089/leetcode-problem/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/velkaviya089/leetcode-problem/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/velkaviya089/leetcode-problem/tree/master/0509-fibonacci-number) |
 | [0779-k-th-symbol-in-grammar](https://github.com/velkaviya089/leetcode-problem/tree/master/0779-k-th-symbol-in-grammar) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/velkaviya089/leetcode-problem/tree/master/1823-find-the-winner-of-the-circular-game) |
