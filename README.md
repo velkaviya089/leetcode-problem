@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/velkaviya089/leetcode-problem/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/velkaviya089/leetcode-problem/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/velkaviya089/leetcode-problem/tree/master/0367-valid-perfect-square) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/velkaviya089/leetcode-problem/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/velkaviya089/leetcode-problem/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/velkaviya089/leetcode-problem/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/velkaviya089/leetcode-problem/tree/master/0523-continuous-subarray-sum) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/velkaviya089/leetcode-problem/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/velkaviya089/leetcode-problem/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/velkaviya089/leetcode-problem/tree/master/0389-find-the-difference) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/velkaviya089/leetcode-problem/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0693-binary-number-with-alternating-bits](https://github.com/velkaviya089/leetcode-problem/tree/master/0693-binary-number-with-alternating-bits) |
 | [0779-k-th-symbol-in-grammar](https://github.com/velkaviya089/leetcode-problem/tree/master/0779-k-th-symbol-in-grammar) |
 ## Binary Search
@@ -387,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/velkaviya089/leetcode-problem/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/velkaviya089/leetcode-problem/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/velkaviya089/leetcode-problem/tree/master/0392-is-subsequence) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/velkaviya089/leetcode-problem/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0409-longest-palindrome](https://github.com/velkaviya089/leetcode-problem/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/velkaviya089/leetcode-problem/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/velkaviya089/leetcode-problem/tree/master/0424-longest-repeating-character-replacement) |
