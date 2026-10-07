@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0405-convert-a-number-to-hexadecimal](https://github.com/velkaviya089/leetcode-problem/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/velkaviya089/leetcode-problem/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/velkaviya089/leetcode-problem/tree/master/0415-add-strings) |
+| [0441-arranging-coins](https://github.com/velkaviya089/leetcode-problem/tree/master/0441-arranging-coins) |
 | [0509-fibonacci-number](https://github.com/velkaviya089/leetcode-problem/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/velkaviya089/leetcode-problem/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/velkaviya089/leetcode-problem/tree/master/0628-maximum-product-of-three-numbers) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/velkaviya089/leetcode-problem/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/velkaviya089/leetcode-problem/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/velkaviya089/leetcode-problem/tree/master/0374-guess-number-higher-or-lower) |
+| [0441-arranging-coins](https://github.com/velkaviya089/leetcode-problem/tree/master/0441-arranging-coins) |
 | [0704-binary-search](https://github.com/velkaviya089/leetcode-problem/tree/master/0704-binary-search) |
 | [0778-swim-in-rising-water](https://github.com/velkaviya089/leetcode-problem/tree/master/0778-swim-in-rising-water) |
 | [0875-koko-eating-bananas](https://github.com/velkaviya089/leetcode-problem/tree/master/0875-koko-eating-bananas) |
