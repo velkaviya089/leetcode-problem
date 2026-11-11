@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/velkaviya089/leetcode-problem/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/velkaviya089/leetcode-problem/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/velkaviya089/leetcode-problem/tree/master/0455-assign-cookies) |
+| [0844-backspace-string-compare](https://github.com/velkaviya089/leetcode-problem/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/velkaviya089/leetcode-problem/tree/master/0876-middle-of-the-linked-list) |
 | [0969-pancake-sorting](https://github.com/velkaviya089/leetcode-problem/tree/master/0969-pancake-sorting) |
 | [0977-squares-of-a-sorted-array](https://github.com/velkaviya089/leetcode-problem/tree/master/0977-squares-of-a-sorted-array) |
@@ -412,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/velkaviya089/leetcode-problem/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/velkaviya089/leetcode-problem/tree/master/0796-rotate-string) |
 | [0806-number-of-lines-to-write-string](https://github.com/velkaviya089/leetcode-problem/tree/master/0806-number-of-lines-to-write-string) |
+| [0844-backspace-string-compare](https://github.com/velkaviya089/leetcode-problem/tree/master/0844-backspace-string-compare) |
 | [1143-longest-common-subsequence](https://github.com/velkaviya089/leetcode-problem/tree/master/1143-longest-common-subsequence) |
 | [1392-longest-happy-prefix](https://github.com/velkaviya089/leetcode-problem/tree/master/1392-longest-happy-prefix) |
 | [1408-string-matching-in-an-array](https://github.com/velkaviya089/leetcode-problem/tree/master/1408-string-matching-in-an-array) |
@@ -627,6 +629,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/velkaviya089/leetcode-problem/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/velkaviya089/leetcode-problem/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/velkaviya089/leetcode-problem/tree/master/0415-add-strings) |
+| [0844-backspace-string-compare](https://github.com/velkaviya089/leetcode-problem/tree/master/0844-backspace-string-compare) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/velkaviya089/leetcode-problem/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Euclidean Algorithm
 |  |
@@ -673,6 +676,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0173-binary-search-tree-iterator](https://github.com/velkaviya089/leetcode-problem/tree/master/0173-binary-search-tree-iterator) |
 | [0232-implement-queue-using-stacks](https://github.com/velkaviya089/leetcode-problem/tree/master/0232-implement-queue-using-stacks) |
 | [0739-daily-temperatures](https://github.com/velkaviya089/leetcode-problem/tree/master/0739-daily-temperatures) |
+| [0844-backspace-string-compare](https://github.com/velkaviya089/leetcode-problem/tree/master/0844-backspace-string-compare) |
 ## Monotonic Stack
 |  |
 | ------- |
