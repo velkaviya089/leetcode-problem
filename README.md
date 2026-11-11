@@ -616,6 +616,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/velkaviya089/leetcode-problem/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/velkaviya089/leetcode-problem/tree/master/0387-first-unique-character-in-a-string) |
 | [0622-design-circular-queue](https://github.com/velkaviya089/leetcode-problem/tree/master/0622-design-circular-queue) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/velkaviya089/leetcode-problem/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -641,6 +642,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/velkaviya089/leetcode-problem/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/velkaviya089/leetcode-problem/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/velkaviya089/leetcode-problem/tree/master/0173-binary-search-tree-iterator) |
+| [0232-implement-queue-using-stacks](https://github.com/velkaviya089/leetcode-problem/tree/master/0232-implement-queue-using-stacks) |
 | [0303-range-sum-query-immutable](https://github.com/velkaviya089/leetcode-problem/tree/master/0303-range-sum-query-immutable) |
 | [0622-design-circular-queue](https://github.com/velkaviya089/leetcode-problem/tree/master/0622-design-circular-queue) |
 ## Matrix
@@ -669,6 +671,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/velkaviya089/leetcode-problem/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/velkaviya089/leetcode-problem/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/velkaviya089/leetcode-problem/tree/master/0173-binary-search-tree-iterator) |
+| [0232-implement-queue-using-stacks](https://github.com/velkaviya089/leetcode-problem/tree/master/0232-implement-queue-using-stacks) |
 | [0739-daily-temperatures](https://github.com/velkaviya089/leetcode-problem/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
