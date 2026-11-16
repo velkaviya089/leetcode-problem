@@ -214,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/velkaviya089/leetcode-problem/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/velkaviya089/leetcode-problem/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/velkaviya089/leetcode-problem/tree/master/0091-decode-ways) |
+| [0095-unique-binary-search-trees-ii](https://github.com/velkaviya089/leetcode-problem/tree/master/0095-unique-binary-search-trees-ii) |
 | [0118-pascals-triangle](https://github.com/velkaviya089/leetcode-problem/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/velkaviya089/leetcode-problem/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/velkaviya089/leetcode-problem/tree/master/0120-triangle) |
@@ -618,6 +619,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/velkaviya089/leetcode-problem/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/velkaviya089/leetcode-problem/tree/master/0090-subsets-ii) |
 | [0093-restore-ip-addresses](https://github.com/velkaviya089/leetcode-problem/tree/master/0093-restore-ip-addresses) |
+| [0095-unique-binary-search-trees-ii](https://github.com/velkaviya089/leetcode-problem/tree/master/0095-unique-binary-search-trees-ii) |
 | [0131-palindrome-partitioning](https://github.com/velkaviya089/leetcode-problem/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/velkaviya089/leetcode-problem/tree/master/0140-word-break-ii) |
 | [0494-target-sum](https://github.com/velkaviya089/leetcode-problem/tree/master/0494-target-sum) |
@@ -742,6 +744,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/velkaviya089/leetcode-problem/tree/master/0095-unique-binary-search-trees-ii) |
 | [0098-validate-binary-search-tree](https://github.com/velkaviya089/leetcode-problem/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/velkaviya089/leetcode-problem/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/velkaviya089/leetcode-problem/tree/master/0101-symmetric-tree) |
@@ -763,6 +766,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/velkaviya089/leetcode-problem/tree/master/0095-unique-binary-search-trees-ii) |
 | [0098-validate-binary-search-tree](https://github.com/velkaviya089/leetcode-problem/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/velkaviya089/leetcode-problem/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/velkaviya089/leetcode-problem/tree/master/0101-symmetric-tree) |
@@ -784,6 +788,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/velkaviya089/leetcode-problem/tree/master/0095-unique-binary-search-trees-ii) |
 | [0098-validate-binary-search-tree](https://github.com/velkaviya089/leetcode-problem/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/velkaviya089/leetcode-problem/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/velkaviya089/leetcode-problem/tree/master/0173-binary-search-tree-iterator) |
