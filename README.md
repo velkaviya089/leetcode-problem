@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1584-min-cost-to-connect-all-points](https://github.com/velkaviya089/leetcode-problem/tree/master/1584-min-cost-to-connect-all-points) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/velkaviya089/leetcode-problem/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/velkaviya089/leetcode-problem/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2248-intersection-of-multiple-arrays](https://github.com/velkaviya089/leetcode-problem/tree/master/2248-intersection-of-multiple-arrays) |
 ## Two Pointers
 |  |
 | ------- |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/velkaviya089/leetcode-problem/tree/master/0771-jewels-and-stones) |
 | [0904-fruit-into-baskets](https://github.com/velkaviya089/leetcode-problem/tree/master/0904-fruit-into-baskets) |
 | [1122-relative-sort-array](https://github.com/velkaviya089/leetcode-problem/tree/master/1122-relative-sort-array) |
+| [2248-intersection-of-multiple-arrays](https://github.com/velkaviya089/leetcode-problem/tree/master/2248-intersection-of-multiple-arrays) |
 ## Sorting
 |  |
 | ------- |
@@ -305,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0969-pancake-sorting](https://github.com/velkaviya089/leetcode-problem/tree/master/0969-pancake-sorting) |
 | [0977-squares-of-a-sorted-array](https://github.com/velkaviya089/leetcode-problem/tree/master/0977-squares-of-a-sorted-array) |
 | [1122-relative-sort-array](https://github.com/velkaviya089/leetcode-problem/tree/master/1122-relative-sort-array) |
+| [2248-intersection-of-multiple-arrays](https://github.com/velkaviya089/leetcode-problem/tree/master/2248-intersection-of-multiple-arrays) |
 ## Brainteaser
 |  |
 | ------- |
@@ -540,6 +543,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/velkaviya089/leetcode-problem/tree/master/0387-first-unique-character-in-a-string) |
 | [0621-task-scheduler](https://github.com/velkaviya089/leetcode-problem/tree/master/0621-task-scheduler) |
 | [1122-relative-sort-array](https://github.com/velkaviya089/leetcode-problem/tree/master/1122-relative-sort-array) |
+| [2248-intersection-of-multiple-arrays](https://github.com/velkaviya089/leetcode-problem/tree/master/2248-intersection-of-multiple-arrays) |
 ## Quicksort
 |  |
 | ------- |
