@@ -425,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1408-string-matching-in-an-array](https://github.com/velkaviya089/leetcode-problem/tree/master/1408-string-matching-in-an-array) |
 | [1447-simplified-fractions](https://github.com/velkaviya089/leetcode-problem/tree/master/1447-simplified-fractions) |
 | [1668-maximum-repeating-substring](https://github.com/velkaviya089/leetcode-problem/tree/master/1668-maximum-repeating-substring) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/velkaviya089/leetcode-problem/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Trie
 |  |
 | ------- |
@@ -641,6 +642,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/velkaviya089/leetcode-problem/tree/master/0415-add-strings) |
 | [0844-backspace-string-compare](https://github.com/velkaviya089/leetcode-problem/tree/master/0844-backspace-string-compare) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/velkaviya089/leetcode-problem/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/velkaviya089/leetcode-problem/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Euclidean Algorithm
 |  |
 | ------- |
