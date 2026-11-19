@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/velkaviya089/leetcode-problem/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/velkaviya089/leetcode-problem/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/velkaviya089/leetcode-problem/tree/master/0055-jump-game) |
+| [0059-spiral-matrix-ii](https://github.com/velkaviya089/leetcode-problem/tree/master/0059-spiral-matrix-ii) |
 | [0064-minimum-path-sum](https://github.com/velkaviya089/leetcode-problem/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/velkaviya089/leetcode-problem/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/velkaviya089/leetcode-problem/tree/master/0075-sort-colors) |
@@ -643,6 +644,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/velkaviya089/leetcode-problem/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/velkaviya089/leetcode-problem/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/velkaviya089/leetcode-problem/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/velkaviya089/leetcode-problem/tree/master/0412-fizz-buzz) |
@@ -673,6 +675,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/velkaviya089/leetcode-problem/tree/master/0037-sudoku-solver) |
+| [0059-spiral-matrix-ii](https://github.com/velkaviya089/leetcode-problem/tree/master/0059-spiral-matrix-ii) |
 | [0064-minimum-path-sum](https://github.com/velkaviya089/leetcode-problem/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/velkaviya089/leetcode-problem/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/velkaviya089/leetcode-problem/tree/master/0200-number-of-islands) |
