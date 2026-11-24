@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/velkaviya089/leetcode-problem/tree/master/0628-maximum-product-of-three-numbers) |
 | [0779-k-th-symbol-in-grammar](https://github.com/velkaviya089/leetcode-problem/tree/master/0779-k-th-symbol-in-grammar) |
 | [1447-simplified-fractions](https://github.com/velkaviya089/leetcode-problem/tree/master/1447-simplified-fractions) |
+| [1486-xor-operation-in-an-array](https://github.com/velkaviya089/leetcode-problem/tree/master/1486-xor-operation-in-an-array) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/velkaviya089/leetcode-problem/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/velkaviya089/leetcode-problem/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Bit Manipulation
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0405-convert-a-number-to-hexadecimal](https://github.com/velkaviya089/leetcode-problem/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0693-binary-number-with-alternating-bits](https://github.com/velkaviya089/leetcode-problem/tree/master/0693-binary-number-with-alternating-bits) |
 | [0779-k-th-symbol-in-grammar](https://github.com/velkaviya089/leetcode-problem/tree/master/0779-k-th-symbol-in-grammar) |
+| [1486-xor-operation-in-an-array](https://github.com/velkaviya089/leetcode-problem/tree/master/1486-xor-operation-in-an-array) |
 ## Binary Search
 |  |
 | ------- |
