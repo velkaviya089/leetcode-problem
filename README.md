@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/velkaviya089/leetcode-problem/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/velkaviya089/leetcode-problem/tree/master/0904-fruit-into-baskets) |
 | [0969-pancake-sorting](https://github.com/velkaviya089/leetcode-problem/tree/master/0969-pancake-sorting) |
+| [0973-k-closest-points-to-origin](https://github.com/velkaviya089/leetcode-problem/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/velkaviya089/leetcode-problem/tree/master/0977-squares-of-a-sorted-array) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/velkaviya089/leetcode-problem/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1046-last-stone-weight](https://github.com/velkaviya089/leetcode-problem/tree/master/1046-last-stone-weight) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/velkaviya089/leetcode-problem/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/velkaviya089/leetcode-problem/tree/master/0628-maximum-product-of-three-numbers) |
 | [0779-k-th-symbol-in-grammar](https://github.com/velkaviya089/leetcode-problem/tree/master/0779-k-th-symbol-in-grammar) |
+| [0973-k-closest-points-to-origin](https://github.com/velkaviya089/leetcode-problem/tree/master/0973-k-closest-points-to-origin) |
 | [1447-simplified-fractions](https://github.com/velkaviya089/leetcode-problem/tree/master/1447-simplified-fractions) |
 | [1486-xor-operation-in-an-array](https://github.com/velkaviya089/leetcode-problem/tree/master/1486-xor-operation-in-an-array) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/velkaviya089/leetcode-problem/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -311,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/velkaviya089/leetcode-problem/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/velkaviya089/leetcode-problem/tree/master/0628-maximum-product-of-three-numbers) |
 | [0969-pancake-sorting](https://github.com/velkaviya089/leetcode-problem/tree/master/0969-pancake-sorting) |
+| [0973-k-closest-points-to-origin](https://github.com/velkaviya089/leetcode-problem/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/velkaviya089/leetcode-problem/tree/master/0977-squares-of-a-sorted-array) |
 | [1122-relative-sort-array](https://github.com/velkaviya089/leetcode-problem/tree/master/1122-relative-sort-array) |
 | [2248-intersection-of-multiple-arrays](https://github.com/velkaviya089/leetcode-problem/tree/master/2248-intersection-of-multiple-arrays) |
@@ -513,6 +516,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/velkaviya089/leetcode-problem/tree/master/0240-search-a-2d-matrix-ii) |
 | [0324-wiggle-sort-ii](https://github.com/velkaviya089/leetcode-problem/tree/master/0324-wiggle-sort-ii) |
 | [0347-top-k-frequent-elements](https://github.com/velkaviya089/leetcode-problem/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/velkaviya089/leetcode-problem/tree/master/0973-k-closest-points-to-origin) |
 ## Pigeonhole Principle
 |  |
 | ------- |
@@ -535,6 +539,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/velkaviya089/leetcode-problem/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/velkaviya089/leetcode-problem/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/velkaviya089/leetcode-problem/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0973-k-closest-points-to-origin](https://github.com/velkaviya089/leetcode-problem/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/velkaviya089/leetcode-problem/tree/master/1046-last-stone-weight) |
 ## Quickselect
 |  |
@@ -542,6 +547,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/velkaviya089/leetcode-problem/tree/master/0215-kth-largest-element-in-an-array) |
 | [0324-wiggle-sort-ii](https://github.com/velkaviya089/leetcode-problem/tree/master/0324-wiggle-sort-ii) |
 | [0347-top-k-frequent-elements](https://github.com/velkaviya089/leetcode-problem/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/velkaviya089/leetcode-problem/tree/master/0973-k-closest-points-to-origin) |
 ## Counting Sort
 |  |
 | ------- |
@@ -918,4 +924,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/velkaviya089/leetcode-problem/tree/master/0020-valid-parentheses) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/velkaviya089/leetcode-problem/tree/master/0973-k-closest-points-to-origin) |
+## K-D Tree
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/velkaviya089/leetcode-problem/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
